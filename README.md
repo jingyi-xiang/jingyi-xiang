@@ -20,7 +20,7 @@ As college classes and activities became more time demanding after my freshman y
 
 **********
 
-## 📫 Undergraduate Research
+## 📚 Undergraduate Research
 
 I am currently an undergraduate researcher working on deformable linear object perception and tracking. Perception and tracking of deformable objects are more difficult than that of rigid objects because their shapes change under contact and they are often exposed to occluison and self-occluison. In the past, I have assited in the creation of a deformable linear object dataset. Now I mainly work with deformable linear object tracking algorithms in hopes of increasing their robustness when the object is partially occluded. 
 
