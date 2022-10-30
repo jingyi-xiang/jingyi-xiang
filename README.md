@@ -1,12 +1,14 @@
-# About Me
+# 💬 About Me
 
-I am an undergraduate student studying Electrical Engineering at the University of Illinois at Urbana-Champaign. I am also a team lead for UIUC's VEXU competition team and an undergraduate researcher working with the Bretl Research Group at UIUC.
+I am an undergraduate student studying Electrical Engineering at the University of Illinois at Urbana-Champaign. I am also a team lead of UIUC's VEXU competition team and an undergraduate researcher working with the Bretl Research Group at UIUC.
+
+<img src = "https://github.com/ambulocetus18/ambulocetus18/blob/main/me.jpg" align = "center" width = "400">
 
 **********
 
-## VEX Robotics Competition
+## 🤖 VEX Robotics Competition
 
-I started competing in the VEX Robotics Competition in 2018, my junior year of high school. I was part of Maryland team 97963A for both seasons before graduating, winning two out of the three regional competitions we attended during my rookie year and winning the state championship my second year. 
+I started competing in the VEX Robotics Competition in 2018, my junior year of high school. I was part of Maryland team 97963A for both seasons before graduating, winning two out of the three regional tournaments attended during my rookie year and winning the state championship my second year. 
 
 After entering college, I joined UIUC's VEXU team to continue my competition career. During the 2020-2021 season, our team maxed out the programming skills challenge (iteration [1](https://youtu.be/lbfCjw0BKeE), [2](https://youtu.be/1y09uk4Njgk), and [3](https://youtu.be/Oa5fJqwaVGs)) and won the Robot Skills Champion title at the tournament hosted by UNL. 
 
@@ -18,9 +20,11 @@ As college classes and activities became more time demanding after my freshman y
 
 **********
 
-## Undergraduate Research
+## 📫 Undergraduate Research
 
 I am currently an undergraduate researcher working on deformable linear object perception and tracking. Perception and tracking of deformable objects are more difficult than that of rigid objects because their shapes change under contact and they are often exposed to occluison and self-occluison. In the past, I have assited in the creation of a deformable linear object dataset. Now I mainly work with deformable linear object tracking algorithms in hopes of increasing their robustness when the object is partially occluded. 
+
+<img src = "https://github.com/ambulocetus18/ambulocetus18/blob/main/rope_rod.png" align = "center" width = "400">
 
 ### Extended Abstract
 
