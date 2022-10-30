@@ -6,11 +6,15 @@ I am an undergraduate student studying Electrical Engineering at the University 
 
 ## VEX Robotics Competition
 
-I started competing in the VEX Robotics Competition in 2018, my junior year of high school. I was part of Maryland team 97963A for both seasons before graduating, winning two out of the three regional competitions we attended in my rookie year and winning the state championship my second year. 
+I started competing in the VEX Robotics Competition in 2018, my junior year of high school. I was part of Maryland team 97963A for both seasons before graduating, winning two out of the three regional competitions we attended during my rookie year and winning the state championship my second year. 
 
 After entering college, I joined UIUC's VEXU team to continue my competition career. During the 2020-2021 season, our team maxed out the programming skills challenge (iteration [1](https://youtu.be/lbfCjw0BKeE), [2](https://youtu.be/1y09uk4Njgk), and [3](https://youtu.be/Oa5fJqwaVGs)) and won the Robot Skills Champion title at the tournament hosted by UNL. 
 
-As college classes and activities became more time demanding after my freshman year, my direct involvement in the VEX competition has decreased significantly. Now I mainly work with the programming team to make our robot perform tasks more accurately and efficiently in autonomous mode. When time permits, I also work on interactive demos (written with Python and Jupyter notebook) for basic mobile robot movement algorithms. 
+As college classes and activities became more time demanding after my freshman year, my direct involvement in the VEX competition has decreased significantly. Now I mainly work with the programming team to make our robot perform tasks more accurately and efficiently in autonomous mode. When time permits, I also work on [interactive demos](https://github.com/ambulocetus18/vrc_demos) (written with Python and Jupyter notebook) for basic mobile robot movement algorithms to help those new to the community get started.
+
+### Robots Designed, Built, and Programmed by Me (2019 - 2021)
+
+![alt text](https://github.com/ambulocetus18/ambulocetus18/blob/main/all_bots.png)
 
 **********
 
