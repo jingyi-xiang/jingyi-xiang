@@ -1,6 +1,6 @@
 # 💬 About Me
 
-I am an undergraduate student studying Electrical Engineering at the University of Illinois at Urbana-Champaign. I am also a team lead of UIUC's VEXU competition team and an undergraduate researcher working with the Bretl Research Group at UIUC.
+I am an undergraduate student studying Electrical Engineering at the University of Illinois at Urbana-Champaign (expected to graduate in May 2024). I am also a team lead of UIUC's VEXU competition team and an undergraduate researcher working with the Bretl Research Group at UIUC.
 
 <img src = "https://github.com/ambulocetus18/ambulocetus18/blob/main/me.jpg" align = "center" width = "400">
 
