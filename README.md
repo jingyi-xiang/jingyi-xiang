@@ -1,8 +1,8 @@
 # :wrench: About Me
 
-I am an undergraduate student studying Electrical Engineering at the University of Illinois Urbana-Champaign (graduating in May 2024). Since January 2022, I have been assisting a robotic caretaking project led by Ph.D. candidate [Holly Dinkel](https://www.linkedin.com/in/hollymdinkel/) from the [Bretl Research Group](http://bretl.csl.illinois.edu/). My current research focuses on the perception and tracking of deformable linear objects (e.g. ropes and cables) for robotic manipulation applications.
+I am a first-year computer science Ph.D. student at the University of Illinois Urbana-Champaign (UIUC), where I am part of the RoboTouch Lab led by Professor [Wenzhen Yuan](https://cs.illinois.edu/about/people/all-faculty/yuanwz). My research interests lie in the fields of tactile sensing and robotic manipulation. Outside of research, I spend my spare time taking photos, creating digital art, and playing video games.
 
-Prior to that, I was a competition team lead for [Illini VEX Robotics](https://illinivex.web.illinois.edu/).
+Prior to that, I obtained my B.S. in electrical engineering at UIUC. During my undergrad, I was a research assistant at the UIUC [Bretl Research Group](https://bretl.csl.illinois.edu/) and a competition team lead for [Illini VEX Robotics](https://illinivex.web.illinois.edu/).
 
 [Personal Website](https://jingyi-xiang.github.io/)
 
